@@ -1,9 +1,9 @@
-const Card = () => {
+const Example = () => {
   return (
     <div>
-      Card
+      Example
     </div>
   )
 }
 
-export default Card
+export default Example
